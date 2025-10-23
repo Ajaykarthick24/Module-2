@@ -17,7 +17,7 @@ def result(a,b):
 
 a = int(input()) 
 b = int(input())
-
+result(a,b)
 ## Output
 <img width="567" height="317" alt="image" src="https://github.com/user-attachments/assets/450cb476-2da6-41cf-b0b9-8ae4add6a497" />
 
